@@ -1,5 +1,11 @@
+/*
+Functional Programs: Program 1
+
+@author : Vaishali Gupta(QT8)
+*/
+
 import java.util.Scanner;  
-class prog1
+class HelloProgram
 {
 	public static void main(String args[])
 	{

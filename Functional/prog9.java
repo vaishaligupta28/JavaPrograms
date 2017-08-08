@@ -1,6 +1,12 @@
+/*
+Functional Programs: Program 9
+
+@author:Vaishali Gupta(QT8)
+*/
+
 import java.io.*;
 import java.util.Scanner;
-class prog9
+class Fill2DArray
 {
 	public static void main(String args[])
    {

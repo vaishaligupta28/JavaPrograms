@@ -1,8 +1,14 @@
+/*
+Functional Programs: Program 12
+
+@author: Vaishali Gupta(QT8)
+*/
+
 import java.util.HashSet;
 import java.util.Set;
 
-//using recursion
-class PermuteString1 {
+//12.1 :  Using Recursion
+class PermuteStringRecursion {
     public static Set<String> permutationFinder(String str) {
         Set<String> perm = new HashSet<String>();
         
@@ -42,3 +48,10 @@ class PermuteString1 {
     }
 }
 
+//12.2: Using Iteration
+class PermuteStringIteration{
+    public staic void main(String args[])
+    {
+        
+    }
+}

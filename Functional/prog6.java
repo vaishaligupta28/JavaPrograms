@@ -1,5 +1,11 @@
+/*
+Functional Programs: Program 6
+
+@author: Vaishali Gupta(QT8)
+*/
+
 import java.util.Scanner;
-class prog6
+class PrimeFactorsOfN
 {
 	int c=0;
 	public static void main(String args[])

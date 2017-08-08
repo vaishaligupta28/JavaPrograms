@@ -1,5 +1,10 @@
+/*
+Functional Programs: Program 3
+
+@author: Vaishali Gupta(QT8)
+*/
 import java.util.Scanner;
-class prog3
+class LeapYear
 {
 	public static void main(String args[])
 	{
@@ -14,7 +19,7 @@ class prog3
 		if(str_year.length()==4)
 		{
 			flag=true;
-			boolean check=prog3.IsALeapYear(year);
+			boolean check=LeapYear.IsALeapYear(year);
 			if(check)
 				System.out.println(year+ " is a leap year.");
 			else

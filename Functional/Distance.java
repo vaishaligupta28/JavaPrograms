@@ -1,4 +1,10 @@
-class Distance
+/*
+Functional Programs: Program 11
+
+@author: Vaishali Gupta(QT8)
+*/
+
+public class Distance
 {
 	public static void main(String args[])
 	{

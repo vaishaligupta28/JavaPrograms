@@ -1,4 +1,10 @@
-class prog4
+/*
+Functional Programs: Program 4
+
+@author: Vaishali Gupta(QT8)
+*/
+
+class PowerOf2
 {
 	public static void main(String args[])
 	{

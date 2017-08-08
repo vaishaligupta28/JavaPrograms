@@ -1,9 +1,15 @@
+/*
+Functional Programs: Program 5
+
+@author: Vaishali Gupta(QT8)
+*/
+
 import java.util.Scanner;
-class prog5
+class HarmonicNumber
 {
 	public static void main(String args[])
 	{
-		double sum =0.0;
+		float sum =0.0f;
 		int N;
 		do{
 			System.out.println("Enter a harmonic value");
@@ -13,7 +19,7 @@ class prog5
 		    {
 		    	for(int i=1;i<=N;i++)
 		    	{
-		    		sum= sum+ (double)(i/(float)N);
+		    		sum= sum+ (i/(float)N);
 		    	}
 		    	System.out.println("Sum of harmonic series: " + sum);
 		    }

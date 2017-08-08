@@ -1,5 +1,11 @@
+/*
+Functional Programs: Program 15
+
+@Created by : Vaishali Gupta(QT8)
+*/
+
 import java.util.Scanner;
-class prog15
+class Quadratic
 {
 	public static void main(String args[])
 	{

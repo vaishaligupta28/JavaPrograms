@@ -1,5 +1,11 @@
+/*
+Functional Programs: Program 7
+
+@author: Vaishali Gupta(QT8)
+*/
+
 import java.util.Scanner;
-class prog7
+class GamblerGame
 {
 	public static void main(String args[])
 	{

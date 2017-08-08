@@ -1,5 +1,12 @@
+/*
+Functional Programs: Program 2
+
+@author: Vaishali Gupta(QT8)
+*/
+
+
 import java.util.Scanner;
-class prog2
+class FlipCoin
 {
 	public static void main(String args[])
 	{

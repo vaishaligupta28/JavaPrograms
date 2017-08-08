@@ -1,5 +1,11 @@
+/*
+Functional Programs: Program 10
+
+@author: Vaishali Gupta(QT8)
+*/
+
 import java.util.*;  
-class prog10
+class SumOfIntegersAdding2Zero
 {
 	public static void main(String args[])
 	{		

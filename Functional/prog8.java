@@ -1,6 +1,12 @@
+/*
+Functional Programs: Program 8
+
+@author: Vaishali Gupta(QT8)
+*/
+
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Scanner;
-class prog8
+class DistinctCouponNumbers
 {
 	public static void main(String args[])
 	{
@@ -14,6 +20,9 @@ class prog8
 		int size= sc.nextInt();
 		int distinctCoupons[]= new int[size];
 		System.out.println("Total random numbers generates: "+ checkDistinct(distinctCoupons, size, min, max));
+		System.out.println("The distinct coupons are: ");
+		for(int i=0;i<distinctCoupons.length;i++)
+			{System.out.println(distinctCoupons[i]);}
 	}
 	
 	static int getRandom(int min, int max){
