@@ -6,11 +6,6 @@ Functional Programs: Program 14
 
 import java.util.Arrays;
 import java.util.Scanner;
-/*
-Functional Programs: Program 14
-
-@Created by : Vaishali Gupta(QT8)
-*/
 
 public class TicTacToeGame
 {

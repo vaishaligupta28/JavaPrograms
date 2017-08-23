@@ -5,7 +5,7 @@ Functional Programs: Program 15
 */
 
 import java.util.Scanner;
-class Quadratic
+public class Quadratic
 {
 	public static void main(String args[])
 	{

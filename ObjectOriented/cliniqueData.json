@@ -1,0 +1,79 @@
+{
+   "doctorList": [
+           {
+              "id": "435", 
+              "name": "Harish",
+              "spec": "ophthalmology",
+              "avail": "12:30am" 
+           },
+           {
+              "id": "436", 
+              "name": "Rajesh",
+              "spec": "cardiology",
+              "avail": "11pm"
+           },
+           {
+              "id": "437", 
+              "name": "Rajesh",
+              "spec": "hepatology",
+              "avail": "3pm" 
+           },
+           {
+              "id": "438", 
+              "name": "Sunil",
+              "spec": "immunology",
+              "avail": "11am" 
+           },
+           {
+              "id": "439", 
+              "name": "Meera",
+              "spec": "dermatology",
+              "avail": "6:30pm" 
+           },
+           {
+              "id": "440", 
+              "name": "Arun",
+              "spec": "surgeon",
+              "avail": "7:00pm" 
+           }
+      ] , 
+                                         
+    "patientList": [
+           {
+              "id": "987", 
+              "name": "mahesh",
+              "age": "41",
+              "mobNum": "9635904574" 
+           },
+           {
+              "id": "435", 
+              "name": "kunal",
+              "age": "29",
+              "mobNum": "9978456135" 
+           },
+           {
+              "id": "435", 
+              "name": "david",
+              "age": "35",
+              "mobNum": "99700561250"
+           },
+           {
+              "id": "435", 
+              "name": "seema",
+              "age": "21",
+              "mobNum": "84784565857" 
+           },
+           {
+              "id": "435", 
+              "name": "girish",
+              "age": "58",
+              "mobNum": "9001474254"
+           },
+           {
+              "id": "435", 
+              "name": "archana",
+              "age": "28",
+              "mobNum": "7845123695"
+           }
+        ]
+}

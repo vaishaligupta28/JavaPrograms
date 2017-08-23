@@ -42,10 +42,10 @@ public final class UtilityClass
 	{
 		ArrayList<String> li = new ArrayList<String>();
 		int k=0;
-		for(int i=x;i<=y;i++)
+		for(int i=2;i<=y;i++)
 		{
 			int c=0;
-			for(int j=2;j*j<i;j++)//agr sqrt(13) se pehle ho skte h uske roots to there is vry no chnace ki uske bd me factors hoenge
+			for(int j=2;j<=i/2;j++)//agr sqrt(13) se pehle ho skte h uske roots to there is vry no chnace ki uske bd me factors hoenge
 			{
 				if(i%j==0)
 					c++;
@@ -88,7 +88,7 @@ public final class UtilityClass
 					{
 						String str = itr.next();
 						String temp = str;
-						System.out.println(anagramCheck(i, temp));
+						//System.out.println(anagramCheck(i, temp));
 						if(anagramCheck(i, temp))
 						{
 							if(!new_li.contains(str))
